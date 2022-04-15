@@ -1,0 +1,2 @@
+Arquivo criado para poder ser adicionado no repositório git a pasta mysql, com a pasta vazia não foi realizado o upload 
+da mesma.
